@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruan Oliveira
 
-<!--
-**drakenData/drakenData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong focus on building scalable systems, automation, and data-driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack & Skills
+
+### 🐧 Linux & DevOps
+- Comfortable with CLI and scripting (Bash, etc.)
+- Docker: containerized app development, Dockerfiles, Compose
+- SSH: secure remote access and automation
+- System configuration, performance tuning, and log analysis
+
+### ☕ Java Ecosystem
+- Java (8+)
+- Spring Boot (REST APIs, WebFlux, Security, Data JPA)
+- Maven & Gradle
+- Hibernate, MySQL/PostgreSQL
+
+### 🦫 Go (Golang)
+- Microservices development
+- REST API implementation with standard library and frameworks like Gin
+- Concurrency with Goroutines and Channels
+- Basic knowledge of gRPC and Go Modules
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ruan-oliveira-095225204/)
+- Email: ruantheflash@gmail.com
+
+---
+
+> "Linux is not just an OS, it's a mindset."
