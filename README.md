@@ -26,13 +26,6 @@ Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?drakenData&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?drakenData&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ruan-oliveira-095225204/)
