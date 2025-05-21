@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ruan Oliveira (EN-US)
-
-![Uploading lain.gif…]()
+![lain](https://github.com/user-attachments/assets/860b0eec-8fdb-4e71-a51f-1fe209afbbec)
 
 Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong focus on building scalable systems, automation, and data-driven applications.
 
