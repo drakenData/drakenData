@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ruan Oliveira (EN-US)
 
+![Uploading lain.gif…]()
+
 Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong focus on building scalable systems, automation, and data-driven applications.
 
 ---
