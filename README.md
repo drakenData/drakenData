@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Ruan Oliveira]([https://linkedin.com/in/ruan-oliveira-095225204/]
+- LinkedIn: https://linkedin.com/in/ruan-oliveira-095225204/
 - Email: ruantheflash@gmail.com
 
 ---
