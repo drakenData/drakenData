@@ -13,12 +13,6 @@ Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong
 - SSH: secure remote access and automation
 - System configuration, performance tuning, and log analysis
 
-### ☕ Java Ecosystem
-- Java (8+)
-- Spring Boot (REST APIs, WebFlux, Security, Data JPA)
-- Maven & Gradle
-- Hibernate, MySQL/PostgreSQL
-
 ### 🦫 Go (Golang)
 - Microservices development
 - REST API implementation with standard library and frameworks like Gin
