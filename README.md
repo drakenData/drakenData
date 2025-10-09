@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong
 ## 📫 Let's Connect
 
 - LinkedIn: https://linkedin.com/in/ruan-oliveira-095225204/
-- Email: ruantheflash@gmail.com
+- Email: ruanoliprofissional@gmail.com
 - Books📚: https://drive.google.com/drive/folders/1fAiknnbt7hIkTdnFJrMG__HqMv4Y9DAJHqMv4Y9DAJHqMv4Y9DAJ
 
 ---
