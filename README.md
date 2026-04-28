@@ -13,12 +13,6 @@ Welcome to my GitHub! I'm a backend developer and Linux enthusiast with a strong
 - SSH: secure remote access and automation
 - System configuration, performance tuning, and log analysis
 
-### Go (Golang)
-- Microservices development
-- REST API implementation with standard library and frameworks like Gin
-- Concurrency with Goroutines and Channels
-- Basic knowledge of gRPC and Go Modules
-
 ### 📊👷Data Engineer:
 - Focused on building, transforming, and delivering scalable data solutions. Strong experience with PostgreSQL and SQL for designing efficient data pipelines, data modeling, and query optimization in analytical environments.
 - Hands-on experience with ETL processes, leveraging tools such as Spark and Databricks to process large-scale data in distributed systems, ensuring performance, scalability, and reliability.
