@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ruan Oliveira (EN-US)
-![lain](https://github.com/user-attachments/assets/860b0eec-8fdb-4e71-a51f-1fe209afbbec)
+<img width="1000" height="400" alt="hello there" src="https://github.com/user-attachments/assets/c4425d83-f902-4fa2-8c04-a27939c64240" />
 
 Welcome to my GitHub! I'm a Backend developer, Data Engineer and Linux enthusiast with a strong focus on building scalable systems, automation, and data-driven applications.
 
@@ -19,10 +19,11 @@ Welcome to my GitHub! I'm a Backend developer, Data Engineer and Linux enthusias
 - Skilled in structuring and preparing data for analytical consumption, including integration with Power BI for dashboard development and business insights. Also experienced with Excel for data validation and data organization.
 - Additionally, I use Python with scikit-learn to develop analytical solutions, such as clustering algorithms, enhancing data-driven decision-making.
 ---
-## 📫 Let's Connect
+## 📫 Let's Connect ( Vamos Conectar 🇧🇷 )
 
 - LinkedIn: https://linkedin.com/in/ruan-oliveira-095225204/
 - Email: ruanoliprofissional@gmail.com
+- Medium: https://medium.com/@ruanoliveiraeng
 - Books📚:
 
 ---
