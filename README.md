@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ruan Oliveira (EN-US)
-<img width="1000" height="400" alt="hello there" src="https://github.com/user-attachments/assets/c4425d83-f902-4fa2-8c04-a27939c64240" />
+![Alt Text](https://i.redd.it/p6ild6j8no3e1.gif)
 
 Welcome to my GitHub! I'm a Backend developer, Data Engineer and Linux enthusiast with a strong focus on building scalable systems, automation, and data-driven applications.
 
